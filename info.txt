@@ -1,2 +1,3 @@
 Start plik info.txt
 Master commit 1
+Master commit 2
